@@ -1,0 +1,17 @@
+head{background-color: red;}
+body{background-color: pink; text-align: center}
+img{background-color: white;
+display: block;
+width: 100px; margin: auto;}
+.item { display: inline-block; 
+width: 100%;
+margin-bottom: 20px; }
+.flavor {
+text-align: center-left;
+width: 50%; }
+.beverage {
+text-align: center-left;
+width: 60%; }
+.price { text-align:
+center-left; width: 140%; }
+
